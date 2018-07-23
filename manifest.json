@@ -12,8 +12,8 @@
 	"icons": {
 		"16": "icon.png",
 		"32": "icon.png",
-		"48": "icon_52.png",
-		"128": "icon_104.png"
+		"48": "icon.png",
+		"128": "icon.png"
 	},
 	"permissions": [
 		"contextMenus",
